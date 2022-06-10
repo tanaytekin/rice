@@ -29,6 +29,6 @@ sudo make install
 ``` shell
 sudo cp scripts/* /usr/local/bin/
 sudo cp wallpaper.png /usr/local/share/
-cp -r .config ~/.config
+cp -r .config/* ~/.config
 cp .zshrc ~/
 ```
